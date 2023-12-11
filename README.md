@@ -6,13 +6,13 @@
 
 - 🌴 Proficient in building single-page apps.
 
-- 🏆 I recently built a clone of Monday, check it out, it has everything! [Funday](https://funday-k1un.onrender.com/#/)
+- 🏆 I recently built a clone of Monday, check it out, it has everything! **[Funday](https://funday-k1un.onrender.com/#/)**
 
-- 👨‍💻 My personal website : [https://gal-ben-natan.onrender.com/](https://gal-ben-natan.onrender.com/)
+- 👨‍💻 My personal website : **[https://gal-ben-natan.onrender.com/](https://gal-ben-natan.onrender.com/)**
 
 - 📫 How to reach me : **galbarcessat1@gmail.com**
 
-- 💙 Fun fact: **I love training, surfing, and music festivals.**
+- 💙 Fun fact: I love training, surfing, and music festivals.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
