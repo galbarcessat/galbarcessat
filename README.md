@@ -6,7 +6,7 @@
 
 - 🌴 Proficient in building single-page apps.
 
-- 🏆 I recently built a clone of Monday, check it out, it has everything! **[Funday](https://funday-k1un.onrender.com/#/)**
+- 🏆 I built a clone of Monday, check it out, it has everything! **[Funday](https://funday-k1un.onrender.com/#/)**
 
 - 👨‍💻 My personal website : **[https://gal-ben-natan.onrender.com/](https://gal-ben-natan.onrender.com/)**
 
