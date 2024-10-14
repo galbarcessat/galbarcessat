@@ -8,8 +8,6 @@
 
 - 🏆 I built a clone of Monday, check it out, it has everything! **[Funday](https://funday-k1un.onrender.com/#/)**
 
-- 👨‍💻 My personal website : **[https://gal-ben-natan.onrender.com/](https://gal-ben-natan.onrender.com/)**
-
 - 📫 How to reach me : **galbarcessat1@gmail.com**
 
 - 💙 Fun fact: I love training, surfing, and music festivals.
