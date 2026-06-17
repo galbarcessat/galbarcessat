@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gal Barcessat 👋</h1>
-<h3 align="center">A passionate Full-Stack/Frontend developer.</h3>
+<h3 align="center">A passionate Full-Stack developer.</h3>
 <h3 align="center">In addition, I'm learning new technologies all the time and implementing them in my projects.</h3>
 
 - 🎯 High self-disciplined with a constant drive for professional excellence.
